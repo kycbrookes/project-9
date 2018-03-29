@@ -1,0 +1,68 @@
+<style>body {
+	font-family: 'Questrial', sans-serif;
+	padding: 20em;
+	margin: 20em;
+	line-height: 1em;
+}
+figure {
+	float: center;
+	width: auto;
+	margin-right: 0em;
+	margin-top: 0em;
+	margin-left: 0em;
+	margin-bottom: 0em;
+}
+figure img {
+	width: auto;
+	align-content: center;
+}
+#container {
+	float: none;
+	font-family: 'Questrial', sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 20rem;
+	max-width: 40rem;
+	padding: 0em;
+	text-align: center;
+}
+#container>* {
+	margin: 1em;
+	padding: 1em;
+}
+footer {
+	display: flex;
+    text-align: left;
+}
+.fa {
+	padding: 30px;
+	font-size: 30px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+.fa-soundcloud {
+	background: white;
+	color: #A9A9A9;
+}
+.fa-facebook {
+	background: white;
+	color: #A9A9A9;
+}
+.fa-twitter {
+	background: white;
+	color: #A9A9A9;
+}
+.fa-instagram {
+	background: white;
+	color: #A9A9A9;
+}
+.fa-tumblr {
+	background: white;
+	color: #A9A9A9;
+}
+.fa-linkedin {
+	background: white;
+	color: #A9A9A9;
+}
+</style>
